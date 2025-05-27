@@ -1,4 +1,4 @@
-# Pipeline for Annotation of Antimicrobial Resistance Genes in Klebsiella Isolates
+# Pipeline for Annotation of Antimicrobial Resistance Genes for multiple isolates at once
 
 ## Introduction
 This pipeline evaluates isolates for antimicrobial resistance genes using ResFinder and PointFinder.
