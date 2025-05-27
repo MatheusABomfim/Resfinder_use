@@ -45,6 +45,7 @@ Run the script:
 Output Files
 1. summary_results.csv
 A consolidated CSV file containing resistance gene/mutation data for all samples:
+- I recommend evaluating this csv as if it were a spreadsheet, using tools such as excel, libre office or similar software.
 
 Column	Description
 Sample	- Input filename (isolate name)
@@ -59,7 +60,7 @@ Database	Tool used - (ResFinder or PointFinder)
 Accession	Database accession number - (ResFinder only)
 Antibiotics	- List of associated antibiotics
 
-2. processing_log
+3. processing_log
 A log file is just for tracking script execution, including errors and processing steps for debugging.
 
   
