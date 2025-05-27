@@ -1,4 +1,4 @@
-# Pipeline for annotation of Antimicrobial Resistance Genes in Multiple Isolates
+# Pipeline for annotation of Antimicrobial Resistance Genes in multiple isolates
 
 ## Introduction
 This pipeline evaluates isolates for antimicrobial resistance genes using ResFinder and PointFinder.
