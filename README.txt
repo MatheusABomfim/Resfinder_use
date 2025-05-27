@@ -1,14 +1,14 @@
-Pipeline for Annotation of Antimicrobial Resistance Genes in Klebsiella Isolates
+# Pipeline for Annotation of Antimicrobial Resistance Genes in Klebsiella Isolates
 
-Introduction
+## Introduction
 This pipeline evaluates isolates for antimicrobial resistance genes using ResFinder and PointFinder.
 
 📌 Full script available on GitHub: [https://bitbucket.org/genomicepidemiology/resfinder/src/master/]
 
-🔧 Installation:
+## 🔧 Installation:
 Follow the instructions from the ResFinder Bitbucket repository.
 
-Usage Guide
+## Usage Guide
 1. Script Overview
 The resfinder_test.sh script processes multiple files in a single run.
 (Including fasta, fa, fastq and fq)
