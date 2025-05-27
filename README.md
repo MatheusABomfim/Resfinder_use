@@ -63,7 +63,7 @@ Antibiotics	- List of associated antibiotics
 A log file is just for tracking script execution, including errors and processing steps for debugging.
 
   
-Final Notes
+## Final Notes
 This script simplifies batch analysis of Klebsiella isolates using ResFinder and PointFinder, but can be used for other species just by changing the variable "ORGANISM".
 
 For questions or improvements, feel free to contact me.
