@@ -48,9 +48,7 @@ A consolidated CSV file containing resistance gene/mutation data for all samples
 - I recommend evaluating this csv as if it were a spreadsheet, using tools such as excel, libre office or similar software.
 
 Column	Description
-
 - Sample	- Input filename (isolate name)
-
 - Gene	- Identified resistance gene
 - Mutation - Detected mutation (PointFinder)
 - Resistance -	Type of resistance conferred
