@@ -60,7 +60,7 @@ Column	Description
 - Accession	Database accession number - (ResFinder only)
 - Antibiotics	- List of associated antibiotics
 
-3. processing_log
+2. processing_log
 A log file is just for tracking script execution, including errors and processing steps for debugging.
 
   
